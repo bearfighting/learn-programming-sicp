@@ -1,0 +1,20 @@
+{
+  "name": "sicp",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "learn progrmming with sicp",
+  "main": "index.js",
+  "repository": "https://github.com/bearfighting/learn-programming-sicp.git",
+  "author": "Wenfeng Xing",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.3.1",
+    "jest": "^29.3.1"
+  }
+}
